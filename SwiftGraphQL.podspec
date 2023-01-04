@@ -24,4 +24,6 @@ Pod::Spec.new do |spec|
   spec.dependency 'Starscream'
   spec.dependency 'Yams'
   
+  # still missing many dependencies
+  
 end
